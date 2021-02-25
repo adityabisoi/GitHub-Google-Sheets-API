@@ -12,6 +12,3 @@ const api={
 }
 
 module.exports =  api
-// getProfile(url,(x)=>{
-//     console.log(x)
-// })
